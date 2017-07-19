@@ -24,6 +24,7 @@
 #pragma mark ------------- 添加View ---------------
 - (void)addSubViews{
     [self.view addSubview:self.homeView];
+    
 }
 
 - (HomeView *)homeView{

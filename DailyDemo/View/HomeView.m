@@ -52,7 +52,7 @@
 - (UITableView *)tableView{
     
     if (!_tableView) {
-        _tableView = [[UITableView alloc] initWithFrame:CGRectMake(0, 0, 375, 667)] ;
+        _tableView = [[UITableView alloc] initWithFrame:[UIScreen mainScreen].bounds] ;
         _tableView.delegate = self;
         _tableView.dataSource = self;
     }
