@@ -1,0 +1,1228 @@
+{
+"resultCode": "0",
+"page": {
+"totalRow": 78,
+"pageNumber": 1,
+"firstPage": true,
+"lastPage": false,
+"totalPage": 3,
+"pageSize": 30,
+"list": [
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "今天干啥来",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-07-04 15:03:59",
+"EXT_ID": null,
+"ID": "16c0abf4-6c90-49aa-8f26-b08e34870503",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": "华宇百花谷附近",
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "8aed83e45725d675015764083d276a93",
+"USER_NAME": "姜先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%E5%9C%A8%E6%88%91%E8%BA%AB%E4%B8%8A%E8%B5%8C%E4%B8%80%E6%8A%8A%EF%BC%8C%E5%88%AB%E5%BF%98%E4%BA%86%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E4%BD%A0%E6%9D%A5%E6%8B%BF%E7%9D%80%E7%9B%B8%E6%9C%BA%E5%92%8C%E6%88%91%5B%E5%AE%B3%E7%BE%9E%5D%5B%E5%AE%B3%E7%BE%9E%5D",
+"CONTENT_B": "%E5%8D%8E%E5%9B%BE%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95%E6%8A%A5%E5%90%8D%E5%8F%82%E5%8A%A0%E7%9A%84%E5%9B%BD%E9%99%85%E5%92%8C%E5%9C%B0%E5%8C%BA%E5%BD%A2%E5%8A%BF%E4%B8%8B%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E5%92%8C%E6%94%B9%E8%BF%9B%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%BB%BA%E8%AE%BE%E4%B8%AD%E5%8E%BB%EF%BC%8C%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%90%A7%E2%80%A6%E2%80%A6%E5%8F%91%E6%9D%A5%E4%BF%A1%E6%81%AF%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E5%BC%80%E5%A7%8B%E6%83%B3%E5%BF%B5%5B%E5%8F%91%E5%91%86%5D",
+"CREATE_DATE": "2017-06-28 09:06:28",
+"EXT_ID": null,
+"ID": "13dfe523-be6b-4eca-b0ba-96d34a49503a",
+"IMG": null,
+"IS_PUBLIC": "0",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "2",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "13dfe523-be6b-4eca-b0ba-96d34a49503a",
+"CREATE_DATE": "2017-06-29 11:11:12",
+"ID": "43309b7d-ed61-4eab-9931-7467508999bd",
+"REPLY_CONTENT": "发表导演是熟人",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": "(null)40288863505b615e0150696349fd0099,8aed83e45846f676015870e068ef1c49",
+"CONTENT_A": "%E5%8D%8E%E4%B8%BD%E5%BE%97%E8%B5%84%E7%AB%B9%E7%82%AD%E8%81%9A%E6%8B%A2%E6%96%87%E7%8E%A9%E5%BA%97%E5%A4%A7%E5%90%89%EF%BC%8C%E5%8F%91%E6%9D%A5%E7%9A%84%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E6%92%87%E5%98%B4%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E6%92%87%E5%98%B4%5D%5B%E5%BE%97%E6%84%8F%5D@%E6%9F%B4%E6%B5%A9@%E6%9B%B9%E5%B3%B0%E5%B3%B0",
+"CONTENT_B": "%E5%8F%91%E5%B8%83%E4%BC%9A%E6%8A%8A%E6%88%91%E8%87%AA%E5%B7%B1%E9%83%BD%E4%B8%8D%E6%87%82%5B%E5%BE%97%E6%84%8F%5D%5B%E6%92%87%E5%98%B4%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E6%92%87%E5%98%B4%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E6%92%87%E5%98%B4%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E6%92%87%E5%98%B4%5D%E7%BB%9D%E6%8A%A4%E6%89%8B%E9%9C%9C",
+"CREATE_DATE": "2017-06-27 17:42:20",
+"EXT_ID": null,
+"ID": "c63d3623-3d81-4463-a2e4-b5f7111baddb",
+"IMG": "http://ac-2ycfx9Jc.clouddn.com/58Pcc9GnvNs3JOALRAK0AXA.jpg|http://ac-2ycfx9Jc.clouddn.com/MLmk6FDVXG1E8LV2nyLeSFA.jpg|http://ac-2ycfx9Jc.clouddn.com/zFlKtuR3TqtPaDA1LIMxRJB.jpg|http://ac-2ycfx9Jc.clouddn.com/klziUmF9UnPr8GCtNADkQBC.jpg",
+"IS_PUBLIC": "0",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "2",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "c63d3623-3d81-4463-a2e4-b5f7111baddb",
+"CREATE_DATE": "2017-06-29 11:11:25",
+"ID": "c2442df6-7f8b-4623-8d1c-ea70185f2775",
+"REPLY_CONTENT": "华东哦。别有一番味道很好了，我想看",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%E5%88%AB%E5%86%8D%E6%83%B3%E4%B8%80%E6%AC%A1%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E6%92%87%E5%98%B4%5D",
+"CONTENT_B": "%E5%88%AB%E5%A2%85%E5%8C%BA%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E5%8F%91%E6%9D%A5%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D",
+"CREATE_DATE": "2017-06-27 17:39:46",
+"EXT_ID": null,
+"ID": "4d4b9304-851d-4956-ae75-b33fe3718faa",
+"IMG": "http://ac-2ycfx9Jc.clouddn.com/9LxqQtBvUW4zPN2XjT32G0C.jpg",
+"IS_PUBLIC": "0",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "2",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "4d4b9304-851d-4956-ae75-b33fe3718faa",
+"CREATE_DATE": "2017-06-29 11:11:59",
+"ID": "aee3d258-6b8f-4250-83c5-5e11560434ad",
+"REPLY_CONTENT": "别想再",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%E5%8F%91%E4%B8%80%E4%B8%AA%E6%97%A5%E6%8A%A5%E5%90%A7",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-27 17:36:25",
+"EXT_ID": null,
+"ID": "14e97545-63fc-421e-8faf-d4ba5f0e7f37",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": "山西省太原市小店区学府街靠近华宇绿洲",
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "14e97545-63fc-421e-8faf-d4ba5f0e7f37",
+"CREATE_DATE": "2017-06-29 11:11:50",
+"ID": "a016ec2f-220d-49b8-9c40-7ed2101b73ce",
+"REPLY_CONTENT": "是的没错的、在一",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": "40288863505b615e0150696349fd0099,8aed83e45846f676015870e068ef1c49",
+"CONTENT_A": "%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%E4%B8%8D%E9%94%99%E5%95%8A@%E6%9F%B4%E6%B5%A9@%E6%9B%B9%E5%B3%B0%E5%B3%B0",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-27 17:33:51",
+"EXT_ID": null,
+"ID": "443adc02-a9ef-4456-b4f5-e21716c0b318",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": "山西省太原市小店区学府街靠近华宇绿洲",
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "443adc02-a9ef-4456-b4f5-e21716c0b318",
+"CREATE_DATE": "2017-07-03 09:25:11",
+"ID": "b4cab0bc-d57e-48da-ba40-2bd5b86cbfe6",
+"REPLY_CONTENT": "华图公务员考试面试时间都会给你们做什么都不在一起看电影看多",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": "40288863505b615e0150696349fd0099,8aed83e45846f676015870e068ef1c49",
+"CONTENT_A": "%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%23%E9%82%AA%E6%95%99%E7%9A%84%E5%86%B3%E5%AE%9A%E5%B0%B1%E6%98%AF%E5%AE%B6%E5%B1%85%E8%AE%BE%E8%AE%A1%E7%AE%80%E5%8D%95%E6%9C%BA%E6%A2%B0%E6%9C%BA%E8%8A%AF%E5%A8%87%E5%AB%A9%E7%BB%86%E8%85%BB%E4%BD%A0%E6%83%B3%E5%BF%B5%E6%83%B3%E5%BF%B5%E4%BD%A0%E6%83%B3%E5%BF%B5%E4%BD%A0%E6%83%B3%E5%BF%B5%E6%83%B3%E5%BF%B5%E4%BD%A0%E6%83%B3%E5%BF%B5%E7%92%87%E4%BD%A0%E6%83%B3%E5%BF%B5%E6%83%B3%E5%BF%B5%E6%83%B3%E5%BF%B5%E4%BD%A0%E7%9A%84%E4%BD%A0%E6%83%B3%E5%BF%B5%E6%83%B3%E5%BF%B5%E4%BD%A0%E7%9A%84%E4%BD%A0%E7%9A%84%E4%BD%A0%E7%9A%84%E4%BD%A0%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%E4%BC%9A%E6%98%AF%E8%B0%81%E5%91%80%E3%80%82%E5%8F%91%E6%9D%A5%E7%9F%AD%E4%BF%A1%E6%88%91%E6%98%AF%E6%9C%89%5B%E5%8F%91%E5%91%86%5D%5B%E5%8F%91%E5%91%86%5D%EF%BC%81@%E6%9F%B4%E6%B5%A9@%E6%9B%B9%E5%B3%B0%E5%B3%B0",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-27 17:29:00",
+"EXT_ID": null,
+"ID": "0243b6c1-7c32-4ca7-87a8-05ad3c2e4d3c",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "0243b6c1-7c32-4ca7-87a8-05ad3c2e4d3c",
+"CREATE_DATE": "2017-07-03 09:25:21",
+"ID": "043ce31d-01af-4176-ad61-e37bd6aba515",
+"REPLY_CONTENT": "发表导演你",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%E5%91%A8%E4%BA%94%E5%95%A6%EF%BC%8C%E5%A4%A7%E5%AE%B6%E5%8F%91%E5%91%A8%E6%8A%A5%E5%95%8A%5B%E5%8F%91%E5%91%86%5D%5B%E5%8F%91%E5%91%86%5D",
+"CONTENT_B": "%E7%84%B6%E5%90%8E%E5%A4%A7%E5%AE%B6%E6%8A%8A%E4%B8%8B%E4%B8%80%E5%91%A8%E7%9A%84%E5%91%A8%E6%8A%A5%E4%B9%9F%E5%86%99%E4%BA%86%E5%90%A7%EF%BC%81",
+"CREATE_DATE": "2017-06-23 17:13:11",
+"EXT_ID": null,
+"ID": "b700b829-91e0-4783-bc31-7280cfaf67bf",
+"IMG": null,
+"IS_PUBLIC": "0",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "2",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "b700b829-91e0-4783-bc31-7280cfaf67bf",
+"CREATE_DATE": "2017-06-27 16:51:40",
+"ID": "236bb9dc-c138-4728-a538-5602306d4130",
+"REPLY_CONTENT": "[得意][得意][得意]",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%5B%E5%AE%B3%E7%BE%9E%5D%5B%E5%AE%B3%E7%BE%9E%5D%5B%E5%AE%B3%E7%BE%9E%5D%5B%E5%AE%B3%E7%BE%9E%5D",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-23 15:28:17",
+"EXT_ID": null,
+"ID": "ca8603ae-5c04-413a-a777-44772ac5280c",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%5B%E5%AE%B3%E7%BE%9E%5D%5B%E5%AE%B3%E7%BE%9E%5D%E5%8D%8E%E4%B8%BD%E5%BE%97%E4%B8%8D%E9%94%99u%E2%80%A6%E2%80%A6%E6%88%91%E4%BB%AC%E7%9A%84%E6%94%AF%E6%8C%81%E2%80%A6%E2%80%A6%E5%88%AB%E6%9C%89%E6%B4%9E%E5%A4%A9%E2%80%A6%E2%80%A6%E5%9C%A8%E5%AE%B6%E5%91%A2",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-23 15:28:02",
+"EXT_ID": null,
+"ID": "bba9251a-9078-4ce6-b6c0-6fec11d4a662",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%E6%B2%A1%E6%9C%89%E5%95%8A%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-23 15:25:08",
+"EXT_ID": null,
+"ID": "dadc6952-3391-44ce-8d56-0fea632bbaec",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "dadc6952-3391-44ce-8d56-0fea632bbaec",
+"CREATE_DATE": "2017-07-03 09:25:32",
+"ID": "6b21ea25-6f60-4625-bd9b-5b6cf6bb1a04",
+"REPLY_CONTENT": "发表导演了你会让人看",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%E6%96%B0%E5%86%99%E7%9A%84",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-23 15:24:53",
+"EXT_ID": null,
+"ID": "7f87a4a2-aff3-4d36-9fa0-de83389719bd",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%E5%88%AB%E6%9C%89%E9%A3%8E%E5%91%B3%E4%B8%80%E5%92%8C%E6%8A%A4%E6%89%8B%E9%9C%9C%E5%AE%9D%E8%B4%9D%E6%8A%8A%E7%94%B5%E8%AF%9D%E9%83%BD%E4%B8%8D%E6%89%93%E6%89%AE%E5%90%A7%E5%90%A7%E4%B8%8B%E7%8F%AD%E4%B8%8B%E7%8F%AD%E5%90%A7%E4%B8%8B%E7%8F%AD%E5%90%A7%E4%B8%8B%E7%8F%AD%E4%B8%8B%E7%8F%AD%E5%90%A7%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-23 15:24:03",
+"EXT_ID": null,
+"ID": "91353ebe-9667-45ca-850b-a7710d124a9c",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%5B%E9%BE%87%E7%89%99%5D%5B%E9%BE%87%E7%89%99%5D%5B%E9%BE%87%E7%89%99%5D%E8%AF%95%E8%AF%95",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-23 15:23:45",
+"EXT_ID": null,
+"ID": "9209f642-d8bb-4d87-82e8-b809f1b0317e",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%AE%E7%AC%91%5D%E4%BD%A0%E5%A5%BD",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-23 15:21:42",
+"EXT_ID": null,
+"ID": "2e0f4213-c4e3-4551-b954-bd0ca0c5ccdd",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [ ]
+},
+{
+"contentShare": {
+"AT_USER_IDS": "8aed83e45846f676015870e068ef1c49",
+"CONTENT_A": "%23%E5%AE%A2%E6%88%B7%E5%90%8D%E7%A7%B0%23%23%E4%BB%8E%E5%89%8D%23%E5%86%99%E6%97%A5%E6%8A%A5%E5%95%8A%E5%95%8A%E5%95%8A@%E6%9B%B9%E5%B3%B0%E5%B3%B0",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-23 15:19:52",
+"EXT_ID": null,
+"ID": "31129946-dada-43d3-afd8-489e4a640491",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": "山西省太原市小店区学府街靠近华宇绿洲",
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [
+{
+"CONTENT_ID": "31129946-dada-43d3-afd8-489e4a640491",
+"CREATE_DATE": "2017-06-23 15:20:19",
+"ID": "a2399af8-9b55-477f-a019-f631a833cd62",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "李先生刚刚拓展了一个新用户，小朋友，位于山西省太原市小店区学府街靠近华宇百花谷。",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-21 10:06:25",
+"EXT_ID": "c81408d7-3a50-4fba-83b6-fa2fea8e0add",
+"ID": "c7c2b5ae-fd7f-4dc7-9109-41386299b21a",
+"IMG": "http://ac-2ycfx9Jc.clouddn.com/5fLGvf3iutsfQogjWgjwYhApWJHXW3Ny8EwjPfHJ.jpg",
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": null,
+"POSITION": "山西省太原市小店区学府街靠近华宇百花谷",
+"SCORE": null,
+"STATE": "0",
+"TYPE": "5",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "c7c2b5ae-fd7f-4dc7-9109-41386299b21a",
+"CREATE_DATE": "2017-06-23 14:27:51",
+"ID": "7e6482fb-7002-4c57-a720-c5058dd3404b",
+"REPLY_CONTENT": "[害羞][害羞]试试",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+},
+{
+"CONTENT_ID": "c7c2b5ae-fd7f-4dc7-9109-41386299b21a",
+"CREATE_DATE": "2017-06-23 14:10:10",
+"ID": "dc7ba26a-02ee-4554-8627-275a7a6ab318",
+"REPLY_CONTENT": "[得意][得意]",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+},
+{
+"CONTENT_ID": "c7c2b5ae-fd7f-4dc7-9109-41386299b21a",
+"CREATE_DATE": "2017-06-23 14:07:20",
+"ID": "bb5f8087-6317-4d8f-8256-05d12bd8a0ec",
+"REPLY_CONTENT": "是啊你",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+},
+{
+"CONTENT_ID": "c7c2b5ae-fd7f-4dc7-9109-41386299b21a",
+"CREATE_DATE": "2017-06-23 09:29:10",
+"ID": "b6738db1-25c2-4a81-9c2f-c3bc578bf6f2",
+"REPLY_CONTENT": "[得意][得意]",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+},
+{
+"CONTENT_ID": "c7c2b5ae-fd7f-4dc7-9109-41386299b21a",
+"CREATE_DATE": "2017-06-23 09:28:56",
+"ID": "f6aabcdb-7283-4a40-b6c0-982edb90d3bd",
+"REPLY_CONTENT": "评论一下[得意][得意]",
+"TARGET_ID": "4028886350a708860150a87255bd0001",
+"TARGET_NAME": "李先生",
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+],
+"greats": [
+{
+"CONTENT_ID": "c7c2b5ae-fd7f-4dc7-9109-41386299b21a",
+"CREATE_DATE": "2017-06-21 10:07:08",
+"ID": "58a60710-477f-4c9e-95b4-8d2356add0be",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "李先生刚刚拓展了一个新用户，从前，位于山西省太原市小店区学府街靠近华宇百花谷。",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-21 10:05:13",
+"EXT_ID": "6f2ebc74-45db-41d2-8c58-db4b2fff6eb9",
+"ID": "4a889ccd-6900-4e5d-8753-28b7c3fba0d0",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": null,
+"POSITION": "山西省太原市小店区学府街靠近华宇百花谷",
+"SCORE": null,
+"STATE": "0",
+"TYPE": "5",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "4a889ccd-6900-4e5d-8753-28b7c3fba0d0",
+"CREATE_DATE": "2017-06-21 10:15:22",
+"ID": "f035d8ac-7f82-48d6-a24a-c678a2506497",
+"REPLY_CONTENT": "%40%E5%BA%B7%E5%A9%B7%E5%A9%B7%08%40%E4%B9%94%E6%99%93%E5%86%9B%08%40%E6%9D%8E%E8%80%80%08%5B%E8%B0%83%E7%9A%AE%5D%5B%E5%90%90%5D%5B%E9%BE%87%E7%89%99%5D%5B%E5%AE%B3%E7%BE%9E%5D",
+"TARGET_ID": null,
+"TARGET_NAME": null,
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+},
+{
+"CONTENT_ID": "4a889ccd-6900-4e5d-8753-28b7c3fba0d0",
+"CREATE_DATE": "2017-06-21 10:14:38",
+"ID": "403a063f-5282-4875-96b8-deba7cb56d6c",
+"REPLY_CONTENT": "%40%E9%99%88%E5%87%AF%08%40%E5%B4%94%E5%BC%BA%08%E6%88%91%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B9%88%E6%83%B3%E7%9A%84",
+"TARGET_ID": null,
+"TARGET_NAME": null,
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+},
+{
+"CONTENT_ID": "4a889ccd-6900-4e5d-8753-28b7c3fba0d0",
+"CREATE_DATE": "2017-06-21 10:14:15",
+"ID": "21d2e6c0-967c-4daf-b1a4-ce91b40b1096",
+"REPLY_CONTENT": "%E4%BD%A0%E8%AF%B4%E5%91%A2%F0%9F%98%8A%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D",
+"TARGET_ID": null,
+"TARGET_NAME": null,
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+},
+{
+"CONTENT_ID": "4a889ccd-6900-4e5d-8753-28b7c3fba0d0",
+"CREATE_DATE": "2017-06-21 10:14:00",
+"ID": "e4752ef0-b358-4d04-a7ce-9a4d1e05e10d",
+"REPLY_CONTENT": "%E4%BD%A0%E5%B0%B1%E7%9C%8B%E7%9C%8B",
+"TARGET_ID": null,
+"TARGET_NAME": null,
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+},
+{
+"CONTENT_ID": "4a889ccd-6900-4e5d-8753-28b7c3fba0d0",
+"CREATE_DATE": "2017-06-21 10:11:10",
+"ID": "2c56bbbd-3b9f-4d41-834e-b1bf6caaddbc",
+"REPLY_CONTENT": "%E6%88%91%E6%80%8E%E4%B9%88%E7%9F%A5%E9%81%93",
+"TARGET_ID": null,
+"TARGET_NAME": null,
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+},
+{
+"CONTENT_ID": "4a889ccd-6900-4e5d-8753-28b7c3fba0d0",
+"CREATE_DATE": "2017-06-21 10:10:55",
+"ID": "d56907cb-56de-4e7d-b783-42fdccdaddf6",
+"REPLY_CONTENT": "%E7%B3%8A%E6%B6%82",
+"TARGET_ID": null,
+"TARGET_NAME": null,
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+],
+"greats": [
+{
+"CONTENT_ID": "4a889ccd-6900-4e5d-8753-28b7c3fba0d0",
+"CREATE_DATE": "2017-06-21 10:06:49",
+"ID": "375d096f-e195-4189-a05f-5e35cfba4525",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%8A%E4%BD%9C%E5%A5%BD%E5%87%86%E5%A4%87%E4%B8%80%E4%B8%8B%E8%87%AA%E5%B7%B1%E4%BA%BA%E5%8F%82%E4%B8%8E%EF%BC%8C%5B%E5%8F%91%E5%91%86%5D%5B%E5%8F%91%E5%91%86%5D",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-21 09:27:00",
+"EXT_ID": null,
+"ID": "4af501a7-02c9-4a11-8e21-b8616ea220ea",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "8aed83e45725d6750157b19a4aa96ebf",
+"USER_NAME": "俊欧巴",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "4af501a7-02c9-4a11-8e21-b8616ea220ea",
+"CREATE_DATE": "2017-06-21 11:01:17",
+"ID": "2cc51c3a-2a0c-438b-80cf-d23fc4d2ede1",
+"REPLY_CONTENT": "%E5%91%A2%E4%B9%88",
+"TARGET_ID": null,
+"TARGET_NAME": null,
+"TYPE": "0",
+"USER_ID": "8aed83e454dc68f8015529c4bc796d2a",
+"USER_NAME": "梅梅"
+}
+],
+"greats": [
+{
+"CONTENT_ID": "4af501a7-02c9-4a11-8e21-b8616ea220ea",
+"CREATE_DATE": "2017-06-21 09:27:11",
+"ID": "054cc514-d7da-4e01-b75e-667746e06de0",
+"USER_ID": "8aed83e45725d6750157b19a4aa96ebf",
+"USER_NAME": "俊欧巴"
+},
+{
+"CONTENT_ID": "4af501a7-02c9-4a11-8e21-b8616ea220ea",
+"CREATE_DATE": "2017-06-21 11:01:01",
+"ID": "2ca09293-4133-4afc-8cf6-2570ece9d381",
+"USER_ID": "8aed83e454dc68f8015529c4bc796d2a",
+"USER_NAME": "梅梅"
+},
+{
+"CONTENT_ID": "4af501a7-02c9-4a11-8e21-b8616ea220ea",
+"CREATE_DATE": "2017-06-21 10:07:13",
+"ID": "9927a550-b0ca-4be9-b36d-f0aa9dde2e69",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%E5%8D%8E%E5%A4%8F%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%BE%97%E6%84%8F%5D",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-21 09:23:18",
+"EXT_ID": null,
+"ID": "76c318fc-df2f-48fa-849c-d6d5108734b8",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "8aed83e45725d6750157b19a4aa96ebf",
+"USER_NAME": "俊欧巴",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [
+{
+"CONTENT_ID": "76c318fc-df2f-48fa-849c-d6d5108734b8",
+"CREATE_DATE": "2017-06-21 09:59:59",
+"ID": "16608bea-ff75-4980-bd2e-b011cfb7c35a",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+},
+{
+"CONTENT_ID": "76c318fc-df2f-48fa-849c-d6d5108734b8",
+"CREATE_DATE": "2017-06-21 09:25:11",
+"ID": "73dbf8ef-cc08-4ab7-b70f-4cf4aae9ab13",
+"USER_ID": "8aed83e45725d6750157b19a4aa96ebf",
+"USER_NAME": "俊欧巴"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": "8aed83e4598b47a501599187c5f4041e,40288863505b615e0150696349fd0099,8aed83e45985fe50015987718a7f00fe,402888634fc9b1f0014fcf9484bb0df7,",
+"CONTENT_A": "%40%E6%9B%B9%E5%A9%B7%E5%A9%B7%08%40%E6%9F%B4%E6%B5%A9%08%5B%E5%8F%91%E6%80%92%5D%5B%E5%BE%97%E6%84%8F%5D%5B%E5%8F%91%E6%80%92%5D%40%E8%91%A3%E9%9C%9E%08%40%E6%AE%B5%E5%89%91%08%23%E6%B5%8B%E6%B5%8B%E7%9C%8B%23%231996994646646%23",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-16 17:22:20",
+"EXT_ID": null,
+"ID": "68ad733d-1789-48a8-bfe7-f7acf60a553c",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "Android",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [
+{
+"CONTENT_ID": "68ad733d-1789-48a8-bfe7-f7acf60a553c",
+"CREATE_DATE": "2017-06-19 15:52:58",
+"ID": "2229e559-4204-4d10-81f8-2ebe2c7f13e8",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": "402888634f3ffcb7014f43e2e2f301a6,8aed83e453591e320153973176df2a10,",
+"CONTENT_A": "%23%E4%B8%8D%E7%9F%A5%E9%81%93%23%23%E6%B5%8B%E6%B5%8B%E7%9C%8B%23%40%E9%AB%98%E4%BF%8A%E5%B3%B0%08%40%E9%AB%98%E9%B9%8F%08%5B%E7%96%91%E9%97%AE%5D%5B%E5%9B%B0%5D%5B%E5%86%8D%E8%A7%81%5D%5B%E7%96%91%E9%97%AE%5D%5B%E5%98%98%5D%5B%E5%98%98%5D",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-16 16:26:56",
+"EXT_ID": null,
+"ID": "ddbcecf1-47e1-4c50-8c43-6e171ff60f92",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": "4028886350a708860150cc80ed7c0184",
+"PHONE": "Android",
+"POSITION": "山西省太原市小店区学府街靠近华宇百花谷",
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [
+{
+"CONTENT_ID": "ddbcecf1-47e1-4c50-8c43-6e171ff60f92",
+"CREATE_DATE": "2017-06-21 09:22:45",
+"ID": "36efbc94-a1b1-46c4-a7d8-141dbb617697",
+"USER_ID": "8aed83e45725d6750157b19a4aa96ebf",
+"USER_NAME": "俊欧巴"
+},
+{
+"CONTENT_ID": "ddbcecf1-47e1-4c50-8c43-6e171ff60f92",
+"CREATE_DATE": "2017-06-16 17:25:37",
+"ID": "4d69a263-09f2-405f-a8e7-571e3ff120b8",
+"USER_ID": "8aed83e454dc68f8015529c4bc796d2a",
+"USER_NAME": "梅梅"
+},
+{
+"CONTENT_ID": "ddbcecf1-47e1-4c50-8c43-6e171ff60f92",
+"CREATE_DATE": "2017-06-19 07:54:45",
+"ID": "c3f85c44-159c-418a-93cb-62adc6a24abc",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%F0%9F%98%8A%F0%9F%98%A0%E5%A5%BD%E5%A4%9A%E6%82%A3%E5%BE%97%E6%82%A3%E5%A4%B1%E7%94%9F%E6%B4%BB%E5%A5%BD%E5%96%9C%E6%AC%A2%E5%96%9C%E6%AC%A2%E5%96%9C%E6%AC%A2",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-16 11:13:03",
+"EXT_ID": null,
+"ID": "3cbae5da-d01a-41cb-9fe6-7f3391d4ea51",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [
+{
+"CONTENT_ID": "3cbae5da-d01a-41cb-9fe6-7f3391d4ea51",
+"CREATE_DATE": "2017-06-19 15:54:03",
+"ID": "fd3b2e02-6c5f-4890-a98b-e9c6e023ff1c",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%8A%E5%8F%91%E8%A1%A8%E4%BA%86%E8%AE%B2%E8%AF%9D%E4%BA%86%E4%B8%80%E5%A4%A7%E5%9D%97%E7%9F%B3%E5%A4%B4%E5%8E%8B%E7%9D%80%E9%A9%AC%E8%B7%AF%E5%AF%B9%E9%9D%A2%E6%9C%89%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%98%AF%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%9B%9E%E5%8E%BB%E7%9C%8B%E5%AE%8C%E7%94%B5%E5%BD%B1%E5%9B%9E%E5%AE%B6%E5%90%A7%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E6%98%AF%E4%BD%A0%E8%83%BD%E4%B8%8A%E8%83%BD%E4%B8%8B%5B%E5%9B%B0%5D%5B%E5%9B%B0%5D",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-16 10:05:07",
+"EXT_ID": null,
+"ID": "8b3c727b-b203-4195-af67-52b1e57a6b14",
+"IMG": "http://ac-2ycfx9Jc.clouddn.com/qQfs8eQxbLBwQD5crCBdPXA.jpg",
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [
+{
+"CONTENT_ID": "8b3c727b-b203-4195-af67-52b1e57a6b14",
+"CREATE_DATE": "2017-06-19 15:55:32",
+"ID": "b5e1212f-9f52-484b-8cc4-c87277851d01",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%E6%97%A5%E6%8A%A5%E6%97%A5%E6%8A%A5%E8%AE%B0%E8%80%85%E6%8B%9B%E5%BE%85%E4%BC%9A%E4%B8%8A%E4%BD%9C%E4%BA%86%E4%B8%80%E5%AE%9A%E7%A8%8B%E5%BA%A6%E4%B8%8A%E5%86%B3%E5%AE%9A%E4%B8%8D%E4%BA%86%E5%87%A0%E5%A4%A9%E7%9A%84%E6%97%B6%E9%97%B4%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%5B%E5%81%B7%E7%AC%91%5D%5B%E5%8F%AF%E7%88%B1%5D",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-16 09:49:50",
+"EXT_ID": null,
+"ID": "2c9f3864-041e-481b-be04-f90de8d228ac",
+"IMG": "http://ac-2ycfx9Jc.clouddn.com/H3Zim2ImeV5yVQ4bpauzIwD.jpg",
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [
+{
+"CONTENT_ID": "2c9f3864-041e-481b-be04-f90de8d228ac",
+"CREATE_DATE": "2017-06-19 16:08:59",
+"ID": "44e0b7f9-28be-46f6-a0d6-f8ceb0a00a0c",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%5B%E7%A4%BA%E7%88%B1%5D%5B%E7%A4%BA%E7%88%B1%5D%5B%E7%A4%BA%E7%88%B1%5D",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-16 09:07:08",
+"EXT_ID": null,
+"ID": "c76900e6-538c-4664-8bba-2565ab5eb0a3",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": "Android",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "1",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [
+{
+"CONTENT_ID": "c76900e6-538c-4664-8bba-2565ab5eb0a3",
+"CREATE_DATE": "2017-06-21 09:15:10",
+"ID": "bf92133d-c0aa-43df-a613-21dd1ffbd704",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "%E5%88%AB%E6%83%B3%E6%88%91%E4%B8%8D%E8%83%BD%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E2%80%A6%E2%80%A6%E5%8D%8E%E5%B0%91%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8E%BB%E9%99%A4%E4%BA%86%E4%B8%AA%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B%E3%80%82%5B%E5%8F%91%E5%91%86%5D%5B%E5%8F%91%E5%91%86%5D",
+"CONTENT_B": "%E5%9C%A8%E4%BA%8E%E4%B8%80%E4%BD%93%E6%88%90%E5%9E%8B%E6%8A%80%E6%9C%AF%E4%B8%8E%E4%BA%A7%E5%93%81%E6%98%AF%E6%AD%A3%E5%93%81%E5%93%A6%E3%80%82%5B%E8%B0%83%E7%9A%AE%5D",
+"CREATE_DATE": "2017-06-15 10:05:01",
+"EXT_ID": null,
+"ID": "c995a637-9f1b-4c2d-ad09-23f217d96d21",
+"IMG": null,
+"IS_PUBLIC": "0",
+"ORG_ID": null,
+"PHONE": "iPhone",
+"POSITION": null,
+"SCORE": null,
+"STATE": "0",
+"TYPE": "3",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "c995a637-9f1b-4c2d-ad09-23f217d96d21",
+"CREATE_DATE": "2017-06-23 16:24:26",
+"ID": "0bb8e1a0-c1dd-417e-b28d-c15506982689",
+"REPLY_CONTENT": "%E8%BF%98",
+"TARGET_ID": null,
+"TARGET_NAME": null,
+"TYPE": "0",
+"USER_ID": "8aed83e454dc68f8015529c4bc796d2a",
+"USER_NAME": "梅梅"
+},
+{
+"CONTENT_ID": "c995a637-9f1b-4c2d-ad09-23f217d96d21",
+"CREATE_DATE": "2017-06-21 11:24:19",
+"ID": "2b81d195-11bf-43db-82d7-609681df0c88",
+"REPLY_CONTENT": "%E8%82%AF",
+"TARGET_ID": null,
+"TARGET_NAME": null,
+"TYPE": "0",
+"USER_ID": "8aed83e454dc68f8015529c4bc796d2a",
+"USER_NAME": "梅梅"
+}
+],
+"greats": [
+{
+"CONTENT_ID": "c995a637-9f1b-4c2d-ad09-23f217d96d21",
+"CREATE_DATE": "2017-06-21 10:17:17",
+"ID": "1cc29fa2-97b0-40ff-af0d-815854126de0",
+"USER_ID": "8aed83e454dc68f8015529c4bc796d2a",
+"USER_NAME": "梅梅"
+},
+{
+"CONTENT_ID": "c995a637-9f1b-4c2d-ad09-23f217d96d21",
+"CREATE_DATE": "2017-06-21 09:22:11",
+"ID": "9dba823a-dc33-4db9-9c2d-9b8c3137ca7e",
+"USER_ID": "8aed83e45725d6750157b19a4aa96ebf",
+"USER_NAME": "俊欧巴"
+},
+{
+"CONTENT_ID": "c995a637-9f1b-4c2d-ad09-23f217d96d21",
+"CREATE_DATE": "2017-06-16 09:30:58",
+"ID": "f4a23e5e-aabd-476e-9c81-6db2ced4ee1d",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "李先生刚刚拓展了一个新用户，客户，位于山西省太原市小店区学府街附近。",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-14 17:33:17",
+"EXT_ID": "42246786-b907-4971-b2f7-8458f8b3e9c8",
+"ID": "acb1d69c-e663-49b3-acd9-605e7aec48e4",
+"IMG": "",
+"IS_PUBLIC": "1",
+"ORG_ID": null,
+"PHONE": null,
+"POSITION": "山西省太原市小店区学府街附近",
+"SCORE": null,
+"STATE": "0",
+"TYPE": "5",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [
+{
+"CONTENT_ID": "acb1d69c-e663-49b3-acd9-605e7aec48e4",
+"CREATE_DATE": "2017-06-16 16:18:36",
+"ID": "4c331c9f-7bc6-48d7-897a-563c3d0e5a2d",
+"REPLY_CONTENT": "%E4%B8%8D%E7%9F%A5%E9%81%93%F0%9F%98%AD",
+"TARGET_ID": null,
+"TARGET_NAME": null,
+"TYPE": "0",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+],
+"greats": [
+{
+"CONTENT_ID": "acb1d69c-e663-49b3-acd9-605e7aec48e4",
+"CREATE_DATE": "2017-06-16 16:18:20",
+"ID": "9e29e759-71f8-4ed7-986e-9cc6c04cfef6",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "李先生于10:08完成了对不知道的拜访，拜访总结:去看看.",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-14 10:08:25",
+"EXT_ID": null,
+"ID": "3b0db4fa-65f7-4b2f-8c55-be74af581739",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": "4028886350a708860150cc80ed7c0184",
+"PHONE": null,
+"POSITION": "山西省太原市小店区学府街靠近华宇百花谷",
+"SCORE": null,
+"STATE": "0",
+"TYPE": "6",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [
+{
+"CONTENT_ID": "3b0db4fa-65f7-4b2f-8c55-be74af581739",
+"CREATE_DATE": "2017-06-14 10:38:19",
+"ID": "278936a5-b073-4240-bfc2-0e3a79ceaf91",
+"USER_ID": "8aed83e45725d6750157b19a4aa96ebf",
+"USER_NAME": "俊欧巴"
+},
+{
+"CONTENT_ID": "3b0db4fa-65f7-4b2f-8c55-be74af581739",
+"CREATE_DATE": "2017-06-23 16:05:50",
+"ID": "485944ef-fec9-4007-b837-74474c28a396",
+"USER_ID": "8aed83e454dc68f8015529c4bc796d2a",
+"USER_NAME": "梅梅"
+},
+{
+"CONTENT_ID": "3b0db4fa-65f7-4b2f-8c55-be74af581739",
+"CREATE_DATE": "2017-06-14 16:06:58",
+"ID": "b466f0b5-8759-44f1-9355-6073ac5ab694",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+}
+]
+},
+{
+"contentShare": {
+"AT_USER_IDS": null,
+"CONTENT_A": "李先生于10:05完成了对客户名称的拜访，拜访总结:你太不睡觉睡觉睡觉睡觉就激动激动激动激动骏s你的牛奶都叫想念想念你的.",
+"CONTENT_B": null,
+"CREATE_DATE": "2017-06-14 10:05:09",
+"EXT_ID": null,
+"ID": "25f7b528-c5d3-4a51-bd52-2a2847571de8",
+"IMG": null,
+"IS_PUBLIC": "1",
+"ORG_ID": "4028886350a708860150cc80ed7c0184",
+"PHONE": null,
+"POSITION": "山西省太原市小店区学府街附近",
+"SCORE": null,
+"STATE": "0",
+"TYPE": "6",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生",
+"USER_ORG_ID": "4028886350a708860150cc80ed7c0184",
+"USER_ORG_NAME": "互联网创新事业部",
+"VOC": null
+},
+"replys": [ ],
+"greats": [
+{
+"CONTENT_ID": "25f7b528-c5d3-4a51-bd52-2a2847571de8",
+"CREATE_DATE": "2017-06-21 11:25:08",
+"ID": "a765198a-1b33-4dd2-8b36-221c39ede49b",
+"USER_ID": "8aed83e454dc68f8015529c4bc796d2a",
+"USER_NAME": "梅梅"
+},
+{
+"CONTENT_ID": "25f7b528-c5d3-4a51-bd52-2a2847571de8",
+"CREATE_DATE": "2017-06-19 16:07:31",
+"ID": "e079e488-ea89-4087-a5b0-e59cac0fed1b",
+"USER_ID": "4028886350a708860150a87255bd0001",
+"USER_NAME": "李先生"
+},
+{
+"CONTENT_ID": "25f7b528-c5d3-4a51-bd52-2a2847571de8",
+"CREATE_DATE": "2017-06-21 15:05:21",
+"ID": "feee3573-7631-4f6f-9682-c695612d1164",
+"USER_ID": "8aed83e45725d6750157b19a4aa96ebf",
+"USER_NAME": "俊欧巴"
+}
+]
+}
+]
+},
+"resultMessage": "",
+"resultBoolean": false
+}
