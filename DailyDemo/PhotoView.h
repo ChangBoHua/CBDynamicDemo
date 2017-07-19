@@ -10,4 +10,5 @@
 
 @interface PhotoView : UIView
 
+- (void)setImagerStr:(NSString *)imageStr;
 @end

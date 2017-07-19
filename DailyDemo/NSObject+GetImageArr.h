@@ -10,4 +10,8 @@
 
 @interface NSObject (GetImageArr)
 
+/**
+ 传一个字符串，解析一个图片数组
+ */
++ (NSMutableArray *)initWihtImageStr:(NSString *)imageStr;
 @end

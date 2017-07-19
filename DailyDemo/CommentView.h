@@ -10,4 +10,12 @@
 
 @interface CommentView : UIImageView
 
+/**
+ 将两个数组传递过来
+
+ @param replysArr 评论的数组
+ @param greatsArr 点赞的数组
+ */
+- (void)setReplysArr:(NSMutableArray *)replysArr greatsArr:(NSMutableArray *)greatsArr;
+
 @end

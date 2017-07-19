@@ -7,7 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import "YYTextLayout.h"
+#import <UIKit/UIKit.h>
 @interface NSString (SimpleModifier)
+
++ (NSMutableDictionary *)retunRichTextDic;
 
 @end

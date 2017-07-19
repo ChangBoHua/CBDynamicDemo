@@ -10,4 +10,8 @@
 
 @interface NSString (LikeStr)
 
+/**
+ 将数组转化为显示的字符串
+ */
++ (NSString *)initWithLikeArr:(NSArray *)likeArr;
 @end

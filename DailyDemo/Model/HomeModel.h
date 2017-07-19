@@ -7,7 +7,16 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "contentShareModel.h"
+#import "HomeGreatsModel.h"
+#import "HomeReplysModel.h"
+
 
 @interface HomeModel : NSObject
+
+/**
+ 接收服务器的返回数组
+ */
+@property (nonatomic, strong) NSMutableArray *list;
 
 @end

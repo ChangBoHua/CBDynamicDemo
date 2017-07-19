@@ -10,4 +10,11 @@
 
 @implementation NSObject (GetImageArr)
 
++ (NSMutableArray *)initWihtImageStr:(NSString *)imageStr{
+    NSMutableArray *imageArr = [NSMutableArray array];
+    for (int i = 0; i< [[imageStr componentsSeparatedByString:@"|"] count]; i++) {
+        [imageArr addObject:[imageStr componentsSeparatedByString:@"|"][i]];
+    }
+    return imageArr;
+}
 @end

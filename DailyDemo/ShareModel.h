@@ -9,5 +9,12 @@
 #import <Foundation/Foundation.h>
 
 @interface ShareModel : NSObject
-
+@property (nonatomic, copy) NSString *CONTENT_A;
+@property (nonatomic, copy) NSString *CONTENT_B;
+@property (nonatomic, copy) NSString *POSITION;
+@property (nonatomic, copy) NSString *TYPE;
+@property (nonatomic, copy) NSString *USER_NAME;
+@property (nonatomic, copy) NSString *USER_ORG_NAME;
+@property (nonatomic, copy) NSString *IMG;
+@property (nonatomic, copy) NSString *CREATE_DATE;
 @end

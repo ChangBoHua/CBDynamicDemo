@@ -10,4 +10,10 @@
 
 @interface HomeReplysModel : NSObject
 
+@property (nonatomic, copy) NSString *REPLY_CONTENT;
+@property (nonatomic, copy) NSString *TARGET_NAME;
+@property (nonatomic, copy) NSString *TARGET_ID;
+@property (nonatomic, copy) NSString *TYPE;
+@property (nonatomic, copy) NSString *USER_ID;
+@property (nonatomic, copy) NSString *USER_NAME;
 @end

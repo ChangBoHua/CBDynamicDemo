@@ -7,8 +7,10 @@
 //
 
 #import "ViewController.h"
-
+#import "HomeView.h"
 @interface ViewController ()
+
+@property (nonatomic, strong) HomeView *homeView;
 
 @end
 
@@ -17,8 +19,19 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    [self addSubViews];
+}
+#pragma mark ------------- 添加View ---------------
+- (void)addSubViews{
+    [self.view addSubview:self.homeView];
 }
 
+- (HomeView *)homeView{
+    if (!_homeView) {
+        _homeView = [[HomeView alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    }
+    return _homeView;
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];

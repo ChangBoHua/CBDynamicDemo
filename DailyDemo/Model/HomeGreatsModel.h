@@ -10,4 +10,6 @@
 
 @interface HomeGreatsModel : NSObject
 
+@property (nonatomic, copy) NSString *USER_NAME;
+
 @end

@@ -10,4 +10,8 @@
 
 @interface YYLabel (MessageHeight)
 
++ (CGFloat)getMessageHeight:(NSString *)messageStr
+                   MaxWidth:(CGFloat)MaxWidth
+                    FontNub:(CGFloat)FontNub;
+
 @end
